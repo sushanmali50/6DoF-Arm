@@ -18,6 +18,8 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 You need a Raspberry Pi setup with the PCA9685 servo driver connected to your 6DoF Robot Arm. The Python environment should have the necessary libraries installed, including `tkinter` for the GUI and `adafruit_servokit` for controlling the PCA9685 driver.
+![20240423_132944](https://github.com/sushanmali50/6DoF-Arm/assets/145068266/e3167bc6-4883-4ac9-ae6b-fd94e6763adc)
+
 
 ### Installation
 
