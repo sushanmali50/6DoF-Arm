@@ -38,9 +38,10 @@ python3 robot_arm_controller.py
 After starting the script, the GUI will appear with the sliders. Move the sliders to control the servos' angles and press the 'GRAB' button to activate the grip mechanism.
 
 
-![6DoF Robot Arm GUI] ![Screenshot 2024-04-23 124751](https://github.com/sushanmali50/6DoF-Arm/assets/145068266/96f572ee-0c54-41c0-befd-f884067e3c0e)
+![Screenshot 2024-04-23 124751](https://github.com/sushanmali50/6DoF-Arm/assets/145068266/96f572ee-0c54-41c0-befd-f884067e3c0e)
 
-##Robot Arm In Action
+
+## Robot Arm In Action
 https://github.com/sushanmali50/6DoF-Arm/assets/145068266/21c80250-12a4-48a0-89df-05661a222104
 
 
