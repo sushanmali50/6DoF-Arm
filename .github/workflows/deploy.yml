@@ -22,5 +22,8 @@ jobs:
         run: |
           pip install -r requirements.txt
 
+      - name: Run Tests  
+        run: pytest
+
       - name: Run deployment script
         run: python deploy.py
